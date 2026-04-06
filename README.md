@@ -1,19 +1,19 @@
 # Teste de Usabilidade — Cadastro de Recurso
 
 **1. Telas analisadas**
- 1. [Tela inicial com botão "Cadastrar Recursos](assets/tela_geral.png)
+ 1. ![Tela inicial com botão "Cadastrar Recursos"](assets/tela_geral.png)
 
 Tela inicial do painel com ações rápidas e acesso ao cadastro de recursos.
 
-2. [Página de cadastro de recursos ](assets/tela_equip.png)
+2. ![Página de cadastro de recursos](assets/tela_equip.png)
 
 Lista e opções de gerenciamento de recursos com botão "Novo Recurso".
 
-3. [Popup "Novo Recurso" (formulário)](assets/tela_infos.png)
+3. ![Popup "Novo Recurso" (formulário)](assets/tela_infos.png)
 
 Modal para inserir dados do equipamento (nome, tipo, localização) com "Cancelar" e "Continuar".
 
-4. [Lista mostrando o recurso criado](assets/tela_finalizada.png)
+4. ![Lista mostrando o recurso criado](assets/tela_finalizada.png)
 
 Visão que confirma o cadastro e exibe a localização do recurso.
 
